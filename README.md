@@ -1,1 +1,1 @@
-# Face recognision based on gender
+# Binary classification based on gender
